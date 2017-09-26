@@ -1,5 +1,6 @@
 package com.sha.learn.application.config;
 
+import com.anpr.application.config.WebConfigurer;
 import com.codahale.metrics.MetricRegistry;
 import com.codahale.metrics.servlet.InstrumentedFilter;
 import com.codahale.metrics.servlets.MetricsServlet;
